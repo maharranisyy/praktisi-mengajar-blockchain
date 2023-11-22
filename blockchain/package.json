@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-hardhat",
+  "version": "1.0.0",
+  "description": "This project has purpose to learn blockchain smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "A Indrajaya <me@aindrajaya.my.id> (https://aindrajaya.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "3.0.0",
+    "hardhat": "2.19.0"
+  },
+  "dependencies": {
+    "ethers": "6.8.1",
+    "mocha": "10.2.0"
+  }
+}
